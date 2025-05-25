@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-break-workflow"
+description = "Break the execution, save the incompleted image then continue later."
+version = "1.0.0"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/shinich39/comfyui-break-workflow"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "shinich39"
+DisplayName = "comfyui-break-workflow"
+Icon = ""

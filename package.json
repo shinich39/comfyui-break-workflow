@@ -1,0 +1,26 @@
+{
+  "name": "comfyui-break-workflow",
+  "version": "1.0.0",
+  "description": "Break the execution, save the incompleted image then continue later.",
+  "type": "module",
+  "scripts": {
+    "commit": "node scripts/commit.js",
+    "pub": "node scripts/publish.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinich39/comfyui-break-workflow.git"
+  },
+  "keywords": [
+    "comfyui"
+  ],
+  "author": "shinich39 <shinich39@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shinich39/comfyui-break-workflow/issues"
+  },
+  "homepage": "https://github.com/shinich39/comfyui-break-workflow#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
